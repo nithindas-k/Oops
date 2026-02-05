@@ -11,5 +11,5 @@ Inheritance allows a "child" class to take all the properties and methods of a "
 3. Abstraction (The Blueprint)
 Abstraction focuses on what an object does rather than how it does it. By using interfaces or abstract classes, we create a contract that other classes must follow. This hides complex background logic and only shows the essential "buttons" to the user.
 
-4. Polymorphism (Many Shapes)
+4. Polymorphism Many Shapes
 Polymorphism allows different classes to be treated as instances of the same interface, but each class implements its own specific behavior. Even though we call the same method name, the result changes depending on which object is performing the action.
